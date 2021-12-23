@@ -1,7 +1,7 @@
 package com.example;
 
 public class Praktikum {
-    static String fullName = "яна";
+    static String fullName = "аррр";
 
     public static void main(String[] args) {
 
